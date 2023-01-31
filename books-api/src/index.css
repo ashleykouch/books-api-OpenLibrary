@@ -1,12 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&family=Roboto+Mono&display=swap");
 
 :root {
-  --purple-color: #8d27ae;
-  --pink-color: #d9176d;
+  --off-white-color: #faf9f6;
+  --light-blue-color: #e7eef5;
   --grey-color: #f3f3f3;
   --white-color: #fff;
   --black-color: #010101;
   --light-black-color: #717171;
+  --blue-color: #6178eb;
+  --navy-color: #192841;
   --transition: all 300ms ease-in-out;
 }
 
@@ -14,6 +16,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  background-color: #eff7f6;
 }
 
 html {
