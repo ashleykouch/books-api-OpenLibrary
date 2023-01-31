@@ -74,14 +74,16 @@ ul {
   .nav-item {
     margin-bottom: 0;
     margin-left: 2.8rem;
+    background-color: #eff7f6;
   }
   .nav-link {
-    background-color: var(--light-blue-color);
-    font-size: 1.7rem;
+    background-color: #eff7f6;
+    font-size: 2rem;
     font-weight: 500 !important;
     opacity: 0.8;
   }
   .navbar-nav {
     display: flex;
+    background-color: #eff7f6;
   }
 }

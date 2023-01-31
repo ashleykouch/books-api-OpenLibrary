@@ -25,7 +25,7 @@ const Navbar = () => {
               size={35}
               style={{
                 color: `${toggleMenu ? "#192841" : "#010101"}`,
-                background: `${toggleMenu ? "#e7eef5" : "#f6f6ea"}`,
+                background: `${toggleMenu ? "#e7eef5" : "#eff7f6"}`,
               }}
             />
           </button>
@@ -41,7 +41,7 @@ const Navbar = () => {
           <ul className="navbar-nav">
             <li className="nav-item">
               <Link
-                to="book"
+                to="/"
                 className="nav-link text-uppercase text-white fs-22 fw-6 ls-1"
               >
                 Home
