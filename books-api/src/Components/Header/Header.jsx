@@ -14,10 +14,12 @@ const Header = () => {
           </h2>
           <br />
           <p className="header-text fs-18 fw-3 text-black">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
-            explicabo autem nobis, veniam at minus, ipsum saepe magni recusandae
-            possimus, dolore eos mollitia doloribus voluptatibus iure tenetur
-            necessitatibus esse velit?
+            Welcome to LibraryofBooks! Here, you have the power to search for
+            your favorite books by name and find what you're looking for. From
+            classic novels to popular bestsellers, we've got something for
+            everyone. So, whether you're in the mood for a nostalgic trip down
+            memory lane or want to discover a new author, simply type in the
+            book's name and let our search do the rest. Happy reading!
           </p>
           <SearchForm />
         </div>

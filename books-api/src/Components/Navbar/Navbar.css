@@ -43,7 +43,7 @@
 .nav-link {
   transition: var(--transition);
   background-color: var(--light-blue-color);
-  color: var(--navy-color);
+  color: black;
 }
 
 .navbar-nav {

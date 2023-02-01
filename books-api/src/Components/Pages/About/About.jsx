@@ -26,20 +26,25 @@ const About = () => {
             <img src={aboutImg} alt="" />
           </div>
           <div className="about-text">
-            <h2 className="about-title fs-26 ls-1">About BookHub</h2>
+            <h2 className="about-title fs-26 ls-1">About LibraryOfBooks</h2>
             <p className="fs-17">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus
-              dignissimos consequuntur vero commodi provident maiores, iusto
-              atque corrupti voluptate vel sequi consectetur unde aliquam
-              corporis saepe animi non, tempora reiciendis molestias sed
-              laudantium dolores. Assumenda aperiam fuga quo voluptate commodi
-              ullam aliquam expedita voluptas delectus.
+              Our online book library is a virtual hub for book lovers
+              everywhere. Our mission is to provide access to a vast collection
+              of books, making it easy for readers to find their next favorite
+              read. With a simple search by name feature, you can quickly and
+              easily find the books you're looking for.
             </p>
             <p className="fs-17">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              dicta, possimus inventore eveniet atque voluptatibus repellendus
-              aspernatur illo aliquam dignissimos illum. Commodi, porro omnis
-              dolore amet neque modi quas eum!
+              We've obtained a diverse collection of titles from<span> </span>
+              <span className="about-link">
+                <a href="https://openlibrary.org/">'OpenLibrary'</a>
+              </span>
+              , ensuring that there's something for everyone, no matter what
+              your interests may be. From classic literature to popular
+              bestsellers, we have it all. So, whether you're in the mood for an
+              old favorite or want to discover something new, our book library
+              is the perfect destination. Join us on a journey of discovery and
+              find your next great read today.
             </p>
           </div>
         </div>
