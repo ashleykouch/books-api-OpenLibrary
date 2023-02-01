@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../../Header/Header";
 import { Outlet } from "react-router-dom";
 import BookList from "../../BookList/BookList";
+import Footer from "../../../Containers/Footer/Footer";
 
 const Home = () => {
   return (
@@ -9,6 +10,7 @@ const Home = () => {
       <Header />
       <Outlet />
       <BookList />
+      <Footer />
     </main>
   );
 };
