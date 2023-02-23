@@ -6,6 +6,7 @@ import "./Footer.css";
 
 const Footer = () => {
   return (
+    
     <section className="footer-details">
       <div className="container">
         <div className="footer-info flex flex-c">
